@@ -14,4 +14,4 @@ Open [http://localhost:3020](http://localhost:3020) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-![social-cards](https://github.com/meylon7/social-cards/blob/main/view.PNG?raw=true)
+![social-cards](https://github.com/meylon7/YouTube-Videos/blob/main/pic.PNG?raw=true)
